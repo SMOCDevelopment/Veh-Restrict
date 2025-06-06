@@ -2,7 +2,7 @@
 
 A standalone FiveM vehicle restriction script that automatically deletes restricted vehicles upon player entry unless the player has override permission. Notifications are sent via **ox_lib**, and all removal events are logged to a Discord webhook securely.
 
-![Preview](preview.mp4)
+![Preview](preview.mp4)  ### You need to download the MP4 video or view in my discord!
 
 ---
 
