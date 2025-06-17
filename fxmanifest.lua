@@ -3,7 +3,7 @@ game 'gta5'
 
 description 'Vehicle Restriction System using ox_lib'
 author 'SMOC Development'
-version '1.2.0'
+version '1.0.0'
 
 client_scripts {
     '@ox_lib/init.lua',
