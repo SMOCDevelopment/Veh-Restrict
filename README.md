@@ -4,6 +4,11 @@ A standalone FiveM vehicle restriction script that automatically deletes restric
 
 ![Preview](preview.mp4)   You need to download the MP4 video or view in my discord!
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success)
+[![Join our Discord](https://img.shields.io/discord/1336789892180738162?style=flat-square&logo=discord)](https://discord.gg/pHsTfwAXbF)
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-FF424D?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/c/smocdevelopment/membership)
+
 ---
 
 ## Features
